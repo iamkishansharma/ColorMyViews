@@ -1,3 +1,3 @@
-"# 2 Udaity - Developing Android Apps with Kotlin" 
-"# 3 Udaity - Developing Android Apps with Kotlin" 
-"# 3 Udaity - Developing Android Apps with Kotlin" 
+# KotlinApp-3
+"# 2 Udaity - Developing Android Apps with Kotlin"
+
